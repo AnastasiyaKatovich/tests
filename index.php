@@ -9,6 +9,7 @@
     <div>
     <?php
         echo 'Hello word!';
+        print 'Hello word!';
     ?>
     </div>
 </body>
